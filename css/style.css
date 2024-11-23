@@ -39,6 +39,10 @@
   height: 500px;
 }
 
+.recipe-image {
+  width: 100%;
+}
+
 .button {
   margin-top: 60px;
   margin-left: 40%;
