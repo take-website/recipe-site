@@ -34,6 +34,10 @@
   margin-right: 0;
 }
 
+.image-item {
+  flex: auto;
+}
+
 .image-item img {
   width: 100%;
   height: 500px;
