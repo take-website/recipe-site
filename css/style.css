@@ -102,12 +102,6 @@
     margin-right: 7%;
   }
 
-@media screen and (max-width: 834px) {
-  .image-list {
-    display: block;
-  }
-}
-
   .image-item {
     padding-bottom: 0;
     height: 500px;
