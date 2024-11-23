@@ -127,3 +127,14 @@
     width: auto;
   }
 }
+
+@media screen and (max-width: 834px) {
+  .button a {
+    text-decoration: none;
+    padding: 21px 60px;
+    color: #2B2A27;
+    border: 1px solid #2B2A27;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+}
